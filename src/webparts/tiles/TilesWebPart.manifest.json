@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "5c949de0-2552-496a-b7c2-6ad05cd75291",
+  "alias": "TilesWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "loadLegacyFabricCss": true,
+  "supportedHosts": [
+    "SharePointWebPart",
+    "TeamsTab"
+  ],
+  "supportsThemeVariants": true,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": {
+        "default": "Other"
+      },
+      "title": {
+        "default": "Tiles"
+      },
+      "description": {
+        "default": "Tiles web part"
+      },
+      "officeFabricIconFontName": "Tiles",
+      "properties": {
+        "title": "Tiles"
+      }
+    }
+  ]
+}
