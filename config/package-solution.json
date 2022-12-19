@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tiles-solution",
+    "id": "61dd83c5-e06b-4326-b11e-c4a1adf8d412",
+    "version": "0.0.1.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "ST Chiew",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Modern Tiles"
+      },
+      "longDescription": {
+        "default": "Modern Tiles"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Tiles Feature",
+        "description": "The feature that activates elements of the tiles solution.",
+        "id": "c13abe59-0af5-444b-a566-38d15b16ff34",
+        "version": "0.0.1.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/tiles.sppkg"
+  }
+}
