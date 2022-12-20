@@ -2,9 +2,7 @@
 
 ## Summary
 
-Modern Tiles.
-
-[picture of the solution in action, if possible]
+Modern Tiles
 
 ## Used SharePoint Framework Version
 
@@ -45,7 +43,7 @@ Modern Tiles.
 
 ## Features
 
-- To Do
+- Data source from webpart properties configuration panel.
 
 ## References
 
