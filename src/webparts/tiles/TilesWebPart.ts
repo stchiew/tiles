@@ -9,7 +9,7 @@ import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
 import { IReadonlyTheme } from '@microsoft/sp-component-base';
 
 import * as strings from 'TilesWebPartStrings';
-import Tiles from './components/Tiles';
+import { Tiles } from './components/Tiles';
 import { ITilesProps } from './components/ITilesProps';
 
 export interface ITilesWebPartProps {
