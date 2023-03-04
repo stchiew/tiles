@@ -16,8 +16,9 @@ Modern Tiles
 
 | Version | Date              | Comments |
 | ------- | ----------------- | -------- |
-| 0.0.1   | December 20, 2022 | Initial  |
+| 0.0.3   | March 4, 2023     | Rev 2    |
 | 0.0.2   | December 23, 2022 | Rev 1    |
+| 0.0.1   | December 20, 2022 | Initial  |
 
 ## Disclaimer
 
@@ -26,6 +27,10 @@ Modern Tiles
 ---
 
 ## Revisions
+
+### Rev 2
+
+- Added pages to property pane
 
 ### Rev 1
 

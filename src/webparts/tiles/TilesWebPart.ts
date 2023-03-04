@@ -113,6 +113,29 @@ export default class TilesWebPart extends BaseClientSideWebPart<ITilesWebPartPro
               ]
             }
           ]
+        },
+        {
+          header: {
+            description: 'About'
+          },
+          groups: [
+            {
+              groupName: 'Webpart description',
+              groupFields: [
+                PropertyPaneTextField('description', {
+                  label: 'This is the Tile webpart'
+                })
+              ]
+            },
+            {
+              groupName: 'Version',
+              groupFields: [
+                PropertyPaneTextField('version', {
+                  label: 'v.0.0.3'
+                })
+              ]
+            }
+          ]
         }
       ]
     };
