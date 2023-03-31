@@ -2,7 +2,7 @@
 
 ## Summary
 
-Modern Tiles
+Quick Links Modern Tiles
 
 ## Used SharePoint Framework Version
 
@@ -20,9 +20,9 @@ Modern Tiles
 | 0.0.2   | December 23, 2022 | Rev 1    |
 | 0.0.1   | December 20, 2022 | Initial  |
 
-## Disclaimer
+## Notes
 
-**THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+This project is now based on the PnP sample [react-quick-links](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-quick-links)
 
 ---
 
@@ -30,6 +30,7 @@ Modern Tiles
 
 ### Rev 2
 
+- Modified the property page - web part version and About using text-only page.
 - Added pages to property pane
 
 ### Rev 1

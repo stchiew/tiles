@@ -11,6 +11,7 @@ import { IReadonlyTheme } from '@microsoft/sp-component-base';
 import * as strings from 'TilesWebPartStrings';
 import { Tiles } from './components/Tiles';
 import { ITilesProps } from './components/ITilesProps';
+import { PropertyPaneWebPartInformation } from '@pnp/spfx-property-controls/lib/PropertyPaneWebPartInformation';
 
 export interface ITilesWebPartProps {
   description: string;
@@ -122,16 +123,18 @@ export default class TilesWebPart extends BaseClientSideWebPart<ITilesWebPartPro
             {
               groupName: 'Webpart description',
               groupFields: [
-                PropertyPaneTextField('description', {
-                  label: 'This is the Tile webpart'
+                PropertyPaneWebPartInformation({
+                  description: 'This is the Quick Links Tiles web part',
+                  key: 'webPartVersionId'
                 })
               ]
             },
             {
               groupName: 'Version',
               groupFields: [
-                PropertyPaneTextField('version', {
-                  label: 'v.0.0.3'
+                PropertyPaneWebPartInformation({
+                  description: 'v0.0.4',
+                  key: 'webPartVersionId'
                 })
               ]
             }

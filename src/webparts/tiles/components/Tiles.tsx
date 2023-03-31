@@ -32,7 +32,7 @@ export const Tiles: React.FunctionComponent<ITilesProps> = (props) => {
           progressively to achieve the Tiles webpart implementation.
         </p>
         <ul>
-          <li>Added pages to property pane</li>
+          <li>Added pages to property pane using weppart information pane</li>
           <li>This is now a functional component</li>
         </ul>
       </div>
