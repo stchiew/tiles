@@ -10,6 +10,7 @@ declare interface ITilesWebPartStrings {
   AppTeamsTabEnvironment: string;
   AppOfficeEnvironment: string;
   AppOutlookEnvironment: string;
+  UnknownEnvironment: string;
 }
 
 declare module 'TilesWebPartStrings' {

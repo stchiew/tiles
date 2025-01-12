@@ -60,7 +60,7 @@ export default class TilesWebPart extends BaseClientSideWebPart<ITilesWebPartPro
               environmentMessage = this.context.isServedFromLocalhost ? strings.AppLocalEnvironmentTeams : strings.AppTeamsTabEnvironment;
               break;
             default:
-              throw new Error('Unknown host');
+              environmentMessage = strings.UnknownEnvironment;
           }
 
           return environmentMessage;

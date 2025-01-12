@@ -2,20 +2,16 @@
 
 ## Summary
 
-Modern Tiles.
-
-[picture of the solution in action, if possible]
+Repurposed SPfX project for testing of SPfX code, GitHub actions, etc. Upgraded from v1.16 to 1.20.
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.16.1-green.svg)
+![version](https://img.shields.io/badge/version-1.20.0-green.svg)
 
 ## Applies to
 
 - [SharePoint Framework](https://aka.ms/spfx)
 - [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
-
-> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
 ## Prerequisites
 
@@ -23,9 +19,9 @@ Modern Tiles.
 
 ## Version history
 
-| Version | Date              | Comments |
-| ------- | ----------------- | -------- |
-| 0.0.1   | December 20, 2022 | Initial  |
+| Version | Date             | Comments |
+| ------- | ---------------- | -------- |
+| 0.0.1   | January 10, 2025 | Initial  |
 
 ## Disclaimer
 
@@ -33,19 +29,13 @@ Modern Tiles.
 
 ---
 
-## Minimal Path to Awesome
-
-- Clone this repository
-- Ensure that you are at the solution folder
-- in the command-line run:
-  - **npm install**
-  - **gulp serve**
-
 > Include any additional steps as needed.
 
-## Features
+## Release Features
 
-- To Do
+### v.0.0.1
+
+- Nothing. Basic SPfX template webpart
 
 ## References
 

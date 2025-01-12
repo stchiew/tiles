@@ -12,14 +12,14 @@
       "websiteUrl": "",
       "privacyUrl": "",
       "termsOfUseUrl": "",
-      "mpnId": "Undefined-1.16.1"
+      "mpnId": "Undefined-1.20.0"
     },
     "metadata": {
       "shortDescription": {
         "default": "Modern Tiles"
       },
       "longDescription": {
-        "default": "Modern Tiles"
+        "default": "Modern Tiles - Explorer"
       },
       "screenshotPaths": [],
       "videoUrl": "",

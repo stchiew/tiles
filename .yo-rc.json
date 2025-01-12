@@ -2,18 +2,18 @@
   "@microsoft/generator-sharepoint": {
     "plusBeta": false,
     "isCreatingSolution": true,
-    "nodeVersion": "16.19.0",
+    "nodeVersion": "18.19.0",
     "sdksVersions": {
       "@microsoft/microsoft-graph-client": "3.0.2",
-      "@microsoft/teams-js": "2.4.1"
+      "@microsoft/teams-js": "2.24.0"
     },
-    "version": "1.16.1",
+    "version": "1.20.0",
     "libraryName": "tiles",
     "libraryId": "61dd83c5-e06b-4326-b11e-c4a1adf8d412",
     "environment": "spo",
     "packageManager": "npm",
     "solutionName": "tiles",
-    "solutionShortDescription": "tiles description",
+    "solutionShortDescription": "tiles testing webpart",
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
     "componentType": "webpart"
