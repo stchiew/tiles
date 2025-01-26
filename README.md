@@ -19,9 +19,10 @@ Repurposed SPfX project for testing of SPfX code, GitHub actions, etc. Upgraded 
 
 ## Version history
 
-| Version | Date             | Comments |
-| ------- | ---------------- | -------- |
-| 0.0.1   | January 10, 2025 | Initial  |
+| Version | Date             | Comments            |
+| ------- | ---------------- | ------------------- |
+| 0.0.1   | January 10, 2025 | Initial             |
+| 0.0.1   | January 26, 2025 | GitHub Actions YAML |
 
 ## Disclaimer
 
@@ -32,6 +33,10 @@ Repurposed SPfX project for testing of SPfX code, GitHub actions, etc. Upgraded 
 > Include any additional steps as needed.
 
 ## Release Features
+
+### v.0.0.2
+
+- GitHub Actions yaml
 
 ### v.0.0.1
 
