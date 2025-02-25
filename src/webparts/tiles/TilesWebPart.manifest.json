@@ -25,7 +25,7 @@
       "description": {
         "default": "Tiles - Explorer"
       },
-      "officeFabricIconFontName": "Page",
+      "officeFabricIconFontName": "Tiles",
       "properties": {
         "description": "Tiles Explorer"
       }
