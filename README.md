@@ -19,10 +19,11 @@ Repurposed SPfX project for testing of SPfX code, GitHub actions, etc. Upgraded 
 
 ## Version history
 
-| Version | Date             | Comments            |
-| ------- | ---------------- | ------------------- |
-| 0.0.1   | January 10, 2025 | Initial             |
-| 0.0.1   | January 26, 2025 | GitHub Actions YAML |
+| Version | Date              | Comments            |
+| ------- | ----------------- | ------------------- |
+| 0.0.3   | February 26, 2025 | Property panes      |
+| 0.0.2   | January 26, 2025  | GitHub Actions YAML |
+| 0.0.1   | January 10, 2025  | Initial             |
 
 ## Disclaimer
 
@@ -33,6 +34,10 @@ Repurposed SPfX project for testing of SPfX code, GitHub actions, etc. Upgraded 
 > Include any additional steps as needed.
 
 ## Release Features
+
+### v.0.03
+
+- Property panes
 
 ### v.0.0.2
 

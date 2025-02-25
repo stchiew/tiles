@@ -28,7 +28,7 @@ export default function Tiles(props: ITilesProps): JSX.Element {
         <h3>Welcome to Tiles Explorer!</h3>
         <p>
           This is an Explorer project,to explore web parts spfx development and
-          GitHub actions for CI/CD. <br /> Version 0.0.2
+          GitHub actions for CI/CD. <br /> Version 0.0.3
         </p>
       </div>
     </section>
